@@ -4,7 +4,7 @@
  * Plugin URI:    https://wpeverest.com
  * Description:   InstaWP Git Deployment testing
  * Version:       1.0.2
- * Author:        Vikas
+ * Author:        sssss
  * Author URI:    https://wpeverest.com
  * Text Domain:   instawp
  * Domain Path:   /languages
