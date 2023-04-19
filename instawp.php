@@ -3,7 +3,7 @@
  * Plugin Name:   InstaWP
  * Plugin URI:    https://wpeverest.com
  * Description:   InstaWP Git Deployment testing
- * Version:       1.0.2
+ * Version:       1.0.10
  * Author:        Vikas
  * Author URI:    https://wpeverest.com
  * Text Domain:   instawp
